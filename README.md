@@ -32,7 +32,10 @@ Estudiante de Ingeniería de Sistemas Informáticos
 Universidad de El Salvador – Facultad Multidisciplinaria Oriental
 San Miguel, El Salvador
 mp20049@ues.edu.sv
+
 ---
 ### **Add license**
+
 Este proyecto está bajo la licencia MIT, lo que permite su uso con fines educativos y de investigación, otorgando el debido crédito al autor original.
+
 ---
